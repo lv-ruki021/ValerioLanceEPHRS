@@ -29,6 +29,7 @@ public class Program
 
         while (isRunning)
         {
+            Console.WriteLine("System Initialized - Feature branch active!");
             Console.WriteLine("\n--- Employee Payroll & HR Management System ---");
             Console.WriteLine("1. Create New Employee");
             Console.WriteLine("2. Read All Employees");
