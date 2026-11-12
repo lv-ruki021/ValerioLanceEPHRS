@@ -29,7 +29,7 @@ public class Program
 
         while (isRunning)
         {
-            Console.WriteLine("System Initialized - Main branch active!");
+            Console.WriteLine("System Initialization Complete!");
             Console.WriteLine("\n--- Employee Payroll & HR Management System ---");
             Console.WriteLine("1. Create New Employee");
             Console.WriteLine("2. Read All Employees");
